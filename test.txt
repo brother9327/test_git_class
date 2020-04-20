@@ -1,3 +1,0 @@
-public void sss(){
-int aa = 1;
-}
